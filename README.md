@@ -1,0 +1,1 @@
+Simple kata template for the C# languages. It's using structuremap, automoq, and mstest.
